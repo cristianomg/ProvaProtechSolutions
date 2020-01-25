@@ -1,0 +1,5 @@
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Commum\bin\Debug\ProtechSolution.Commum.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Commum\bin\Debug\ProtechSolution.Commum.pdb
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Commum\obj\Debug\ProtechSolution.Common.csprojAssemblyReference.cache
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Commum\obj\Debug\ProtechSolution.Commum.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Commum\obj\Debug\ProtechSolution.Commum.pdb

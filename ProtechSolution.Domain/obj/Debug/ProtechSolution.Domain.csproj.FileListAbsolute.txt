@@ -1,0 +1,8 @@
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\bin\Debug\ProtechSolution.Domain.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\bin\Debug\ProtechSolution.Domain.pdb
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\bin\Debug\ProtechSolution.Commum.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\bin\Debug\ProtechSolution.Commum.pdb
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\obj\Debug\ProtechSolution.Domain.csprojAssemblyReference.cache
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\obj\Debug\ProtechSolution.Domain.csproj.CopyComplete
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\obj\Debug\ProtechSolution.Domain.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Domain\obj\Debug\ProtechSolution.Domain.pdb

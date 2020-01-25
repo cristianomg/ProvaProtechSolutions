@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtechSolution.Domain", "ProtechSolution.Domain\ProtechSolution.Domain.csproj", "{D42B517F-5853-4831-BB29-234D47ABF3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtechSolution.Common", "ProtechSolution.Commum\ProtechSolution.Common.csproj", "{E9D96C7A-1959-49D1-84A5-ADA19E637F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtechSolution.Api", "ProtechSolution.Api\ProtechSolution.Api.csproj", "{522E2D0E-FA34-480C-A0E4-837FA6FBC285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtechSolution.Business", "ProtechSolution.Business\ProtechSolution.Business.csproj", "{AFD8B1A1-0515-415E-9F49-6D925269EBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtechSolution.Infrastructure", "ProtechSolution.Infrastructure\ProtechSolution.Infrastructure.csproj", "{0C8D71AE-5A21-4947-A3F4-2B3817D21BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtechSolution.Mvc", "ProtechSolution.Mvc\ProtechSolution.Mvc.csproj", "{25461230-3032-4ECD-B184-C70743D9BF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42B517F-5853-4831-BB29-234D47ABF3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42B517F-5853-4831-BB29-234D47ABF3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42B517F-5853-4831-BB29-234D47ABF3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42B517F-5853-4831-BB29-234D47ABF3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D96C7A-1959-49D1-84A5-ADA19E637F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D96C7A-1959-49D1-84A5-ADA19E637F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D96C7A-1959-49D1-84A5-ADA19E637F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D96C7A-1959-49D1-84A5-ADA19E637F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522E2D0E-FA34-480C-A0E4-837FA6FBC285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522E2D0E-FA34-480C-A0E4-837FA6FBC285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522E2D0E-FA34-480C-A0E4-837FA6FBC285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522E2D0E-FA34-480C-A0E4-837FA6FBC285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD8B1A1-0515-415E-9F49-6D925269EBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD8B1A1-0515-415E-9F49-6D925269EBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD8B1A1-0515-415E-9F49-6D925269EBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD8B1A1-0515-415E-9F49-6D925269EBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8D71AE-5A21-4947-A3F4-2B3817D21BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8D71AE-5A21-4947-A3F4-2B3817D21BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8D71AE-5A21-4947-A3F4-2B3817D21BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8D71AE-5A21-4947-A3F4-2B3817D21BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25461230-3032-4ECD-B184-C70743D9BF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25461230-3032-4ECD-B184-C70743D9BF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25461230-3032-4ECD-B184-C70743D9BF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25461230-3032-4ECD-B184-C70743D9BF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8104193-FFDD-48FD-9FE3-24FDBB01BCEF}
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal

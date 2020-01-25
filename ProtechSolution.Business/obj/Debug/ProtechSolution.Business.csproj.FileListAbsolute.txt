@@ -1,0 +1,10 @@
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\bin\Debug\ProtechSolution.Business.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\bin\Debug\ProtechSolution.Business.pdb
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\bin\Debug\ProtechSolution.Domain.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\bin\Debug\ProtechSolution.Commum.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\bin\Debug\ProtechSolution.Domain.pdb
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\bin\Debug\ProtechSolution.Commum.pdb
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\obj\Debug\ProtechSolution.Business.csprojAssemblyReference.cache
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\obj\Debug\ProtechSolution.Business.csproj.CopyComplete
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\obj\Debug\ProtechSolution.Business.dll
+C:\Users\ayrto\Dropbox\CSharp\ProtechSolution\ProtechSolution.Business\obj\Debug\ProtechSolution.Business.pdb
